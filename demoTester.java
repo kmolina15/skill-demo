@@ -5,6 +5,6 @@ public class demoTester {
     
     @Test
     public void subtractTest() {
-        assertEquals(3, demo.subtract(4,2));
+        assertEquals(3, demo.subtract(5,2));
     }
 }
